@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "localhost",
+      "type": "java.lang.String",
+      "description": "Description for localhost."
+  }
+] }
